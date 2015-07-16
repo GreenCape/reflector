@@ -24,7 +24,7 @@ Simply add a dependency on `greencape/reflector` to your project's `composer.jso
 
 For a system-wide installation via Composer, you can run:
 
-    composer global require 'greencape/reflector=*'
+    composer global require --dev 'greencape/reflector=*'
 
 Make sure you have `~/.composer/vendor/bin/` in your path.
 
